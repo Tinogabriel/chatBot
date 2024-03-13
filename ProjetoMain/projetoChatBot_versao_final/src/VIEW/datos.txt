@@ -1,0 +1,97 @@
+#tudo#bem#Tudo sim =), em que posso ajudar?
+#olá#ola#oi#oii#oiii#oiiii#oiiiii#Oiii, em que posso ser util? =D
+#qual#seu#nome#Meu nome é Wall-e, conte-me sobre sua duvida =)
+#quem#te#criou#Fui criado por estudantes da Uninove, conte-me sobre sua duvida =)
+#oque#o#que#você#voce#faz#fas#Fui programado para responder duvidas sobre comandos do windows ;), conte comigo sempre.
+#seu#sua#voce#você#ele#ela#eu#rola#puta#corno#viado#buceta#gay#desgraçado#desgraça#vadia#merda#caralho#merda#cu#pau#penis#Nada simpatico, que tal mudarmos de assunto, conte-me sobre sua duvida =)
+#qual#o#meu#nome#Não faço ideia =(, vamos falar sobre o windows? =)
+#quem#criou#o#windows#Essa eu sei! Microsoft xD, conte-me sobre sua duvida =)
+#você#voce#é#muito#simpatico#alegre#te#amo#gostoso#gostosa#Obrigadooo, voce eh muito gentil sabia :), conte-me sobre sua duvida.
+#você#voce#quer#casar#comigo#?#Estou em um relacionamento serio com o windows, inclusive voce possui alguma duvida sobre ele?
+#qual#o#seu#nome#Meu nome eh Wall-e, bonitinho ne? =)
+#você#voce#esta#estar#com#fome#Abasteci meu oleo hoje cedo rsrs, qual sua duvida? =)
+#quantos#anos#você#tem#sua#idade#Nasci em 2008, foi quando criaram o meu filme :), qual sua duvida? =)
+#linux#mac#melhor#que#windows#Naooooooo, mudando de assunto qual a sua duvida? =)
+#versão#pra#linux#mac#Atualmente so estou disponivel para windows, talvez em um futuro proximo estarei presente em outras plataformas, qual a sua dúvida?
+##Voce precisa digitar algo =(
+como#selecionar#tudo#tudo?#Use o atalho CTRL + A
+como#copiar#itens#selecionados#para#área#transferência#transferência?#Use o atalhor CTRL + C (ou CTRL + Insert)
+Como#recortar#itens#selecionados#para#área#transferência?#transferência??#Use o atalho CTRL + X
+Como#colar#itens#da#área#transferência#transferência?#Use o Atalho CTRL + V (ou Shift + Insert)
+Como#desfazer#ação?#ação??#Use o atalho CTRL + Z
+Como#refazer#ação?#ação??#Use o atalho CTRL + Y
+Como#criar#nova#pasta#no#desktop#ou#no#Explorador#Arquivos#Arquivos?#Use o atalho CTRL + Shift + N
+Como#fechar#janela#atual#atual?#Use o atalho ALT + F4
+Como#mandar#item##para#a#lixeira#lixeira?#Use as teclas CTRL + D (ou Delete)
+Como#excluir#itens#forma#permanente#permanente?#Use o atalho Shift + Delete, voce vai deletar permanentemente, sem passar pela lixeira!
+Como#renomear#item#selecionado#selecionado?#Aperte F2 para renomear!
+como#cancelar#tarefa#atual#atual?#Apenas aperte ESC!
+Como#alternar#entre#janelas#abertas#abertas?#Para alternar entre janelas use ALT + Tab, você vai ganhar agilidade usando esse atalho.
+como#salvar#captura#tela#tela?#Use PrtScn para capturar toda a tela ou Windows + Shift + S para selecionar o espaco que quer tirar o print.
+como#abre#aplicativo#Configurações#Configurações?#Use a  Tecla Windows + I.
+Como#abre#Explorador#Arquivos#Arquivos?#Use a Tecla Windows + E.
+como#abre#Central#Ações#Ações?#Use a Tecla Windows + A.
+Como#mostrar#ou#ocultar#o#desktop#desktop?#Use a Tecla Windows + D.
+como#bloqueia#seção#atual#atual?#Use a Tecla Windows + L.
+como#abre#histórico#da#área#transferência#transferência?#Use a Tecla Windows + V.
+como#abre#o#painel#emojis#emojis?#use a Tecla Windows + . (ou ;)
+como#captura#e#salva#tela#automaticamente#na#pasta#capturas#capturas?#Use a Tecla Windows + PrtScn
+como#capturar#parte#da#tela#com#a#Ferramenta#Captura#Captura?#Use a Tecla Windows + Shift + S
+janela#atual#para#esquerda#da#tela#tela?#Tecla Windows + seta esquerda
+janela#atual#para#direita#da#tela#tela?#Tecla Windows + seta direita
+como#abre#o#menu#iniciar#iniciar?#Use a Tecla Windows + CTRL (ou ESC)
+como#altera#o#tamanho#do#menu#iniciar#iniciar?#Aperte CTRL + setas
+abre#o#Gerenciador#Tarefas#Tarefas?#Use o atalho CTRL + Shift + ESC
+alterna#o#padrão#do#teclado#teclado?#Use o atalho CTRL + Shift
+atualiza#página#ou#tela#atual#atual?#CTRL + F5 (ou R)
+visualiza#todos#os#apps#abertos#abertos?#Tecle CTRL + ALT + Tab
+selecionar#múltiplos#itens#no#desktop#ou#Explorador#Arquivos#Arquivos?#Use as teclas CTRL + setas + espaco
+acessa#menus#menus?#ALT + letra sublinhada
+alterna#entre#apps#abertos#abertos?#ALT + Tab
+voltar#pagina#pagina?#ALT + seta esquerda
+Avançar#pagina#pagina?#ALT + seta direita
+mover#tela#para#cima#cima?#ALT + PageUp
+mover#tela#para#baixo#baixo?#ALT + PageDown
+transitar#entre#janelas#abertas#abertas?#ALT + ESC
+abre#caixa#contexto#para#a#janela#atual#atual?#ALT + espaço
+revela#caracteres#senha#em#processos#login#login?#Aperte ALT + F8
+abre#nova#instância#do#app#(a#partir#da#Barra#Tarefas)#Tarefas)?#Shift + clique no icone
+executa#programa#como#administrador#(a#partir#da#Barra#Tarefas)#Tarefas)?#CTRL + Shift + clique em icone
+mostra#menu#do#programa#a#partir#da#Barra#Tarefas#Tarefas?#Shift + clique com botão direito em icone
+alterna#entre#todas#as#instâncias#abertas#do#app#(a#partir#da#Barra#Tarefas)#Tarefas)?#CTRL + clique em icone
+seleciona#todo#o#parágrafo#parágrafo?#Use CTRL + Shift + seta
+habilita#ou#desabilita#método#entrada#para#caracteres#chineses#(em#editores#e#caixas#texto)#texto)?#CTRL + espaco
+move#cursor#para#o#início#da#palavra#(em#editores#e#caixas#texto)#texto)?#CTRL + seta esquerda
+move#cursor#para#o#final#da#palavra#(em#editores#e#caixas#texto)#texto)?#CTRL + seta direita
+move#cursor#para#o#início#do#parágrafo#(em#editores#e#caixas#texto)#texto)?#CTRL + seta pra cima
+move#cursor#para#o#final#do#parágrafo#(em#editores#e#caixas#texto)#texto)?#CTRL + seta pra baixo
+abre#menu#acesso#rápido#rápido?#Tecla Windows + X
+minimiza#todas#as#janelas#janelas?#Tecla Windows + M
+restaura#todas#as#janelas#minimizadas#minimizadas?#Tecla Windows + Shift + M
+move#janela#ativa#para#o#monitor#à#esquerda#esquerda?#Tecla Windows + Shift + seta esquerda
+move#janela#ativa#para#o#monitor#à#direita#direita?#Tecla Windows + Shift + seta direita
+abre#a#busca#busca?#Tecla Windows + S (ou Q)
+abre#Data#e#Hora#na#Barra#Tarefas#Tarefas?#Tecla Windows + Alt + D
+abre#a#Visão#Tarefas#Tarefas?#Tecla Windows + Tab
+cria#novo#desktop#virtual#virtual?#Tecla Windows + CTRL + D
+fecha#desktop#virtual#atual#atual?#Tecla Windows + CTRL + F4
+alterna#para#desktop#virtual#à#direita#direita?#Tecla Windows + CTRL + seta direita
+alterna#para#desktop#virtual#à#esquerda#esquerda?#Tecla Windows + CTRL + seta esquerda
+abre#menu#Projetar#Projetar?#Tecla Windows + P
+abre#Central#Ações#Ações?#Tecla Windows + A
+abre#Configurações#Configuracoes?#Tecla Windows + I
+abre#Explorador#Arquivos#Arquivos?#Tecla Windows + E
+seleciona#barra#endereco#endereco?#ALT + D
+seleciona#caixa#busca#busca?#CTRL + E (ou F)
+como#abrir#nova#janela#janela?#Utilize CTRL + N
+como#iniciar#busca#busca?#CTRL + F (ou F3)
+como#criar#nova#pasta#pasta?#CTRL + Shift + N
+como#coloco#em#modo#tela#cheia#cheia?#Utilize a tecla F11 
+Como#Atualizar#pagina?#pagina??#Aperte F5
+como#deslizar#para#o#início#da#tela#tela?#Aperte a Tecla Home
+Como#desliza#para#o#final#da#tela#tela?#Aperte a Tecla End
+Como#abre#a#Central#Ações#Ações?#Tecla Windows + A
+como#abrir#as#Configurações#Configurações?#Use a Tecla Windows + I
+Como#abrir#o#Executar#Executar?#Utilize a Tecla Windows + R
+como#abrir#menu#Projetar#Projetar?#Tecla Windows + P
+informações#do#sistema#sistema?#Use a Tecla Windows + pause
